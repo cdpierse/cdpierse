@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, NLP, Machine Learning**
 
-- 📫 How to reach me **charlespierse@gmail.com**
+- 📫 Reach me at **charlespierse@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
