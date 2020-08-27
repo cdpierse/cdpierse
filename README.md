@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **charlespierse@gmail.com**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Build A Keyword Extraction API with Spacy, Flask, and FuzzyWuzzy](https://towardsdatascience.com/build-a-keyword-extraction-api-with-spacy-flask-and-fuzzywuzzy-4909d7ffc105?source=rss-1efa9a37c582------2)
 - [Film Script Generation With GPT-2](https://towardsdatascience.com/film-script-generation-with-gpt-2-58601b00d371?source=rss-1efa9a37c582------2)
