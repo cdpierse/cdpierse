@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Go, Airflow**
 
-- 🤝 I’m looking to collaborate on **OOS projects in the ML and data space**
+- 🤝 I’m looking to collaborate on **OSS projects in the ML and data space**
 
 - 📝 I write articles at [https://medium.com/@charlespierse](https://medium.com/@charlespierse)
 
