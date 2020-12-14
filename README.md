@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m working at [Keenious (The new way of researching online)](https://keenious.com/)
 
-- 🌱 I’m currently learning **Kubernetes, Go ❤️ w**
+- 🌱 I’m currently learning **Kubernetes, Go ❤️ **
 
 - 🤝 I collaborate on **OSS Projects**: [Pyinfer (Creator)](https://github.com/cdpierse/pyinfer), [Databay (Contributor)](https://github.com/Voyz/databay) and more..
 
