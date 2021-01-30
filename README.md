@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">I'm a Machine Learning Engineer with a passion for building intelligent systems that make a difference. I use machine learning and software engineering to solve problems.</h3>
 
-- 👨‍💻 I’m working at [Keenious (The new way of researching online)](https://keenious.com/)
+- 👨‍💻 I’m working at [Keenious (The new way of researching online)](https://keenious.com/) building an academic search engine. 
 
 - 🌱 I’m currently learning **Kubernetes, Go ❤️**
 
