@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">I'm a Machine Learning Engineer with a passion for building intelligent systems that make a difference. I use machine learning and software engineering to solve problems.</h3>
 
-- 👨‍💻 I’m working at [Keenious (The new way of researching online)](https://keenious.com/) building a ML powered search engine for students and researchers. 
+- 👨‍💻 I work at [Keenious (The new way of researching online)](https://keenious.com/) building a ML powered search engine for students and researchers. 
 
 - 🌱 I’m currently learning **Kubernetes, Go ❤️**
 
-- 🤝 I collaborate on **OSS Projects**:  [Transformers Interpret (Creator)](https://github.com/cdpierse/transformers-interpret), [Pyinfer (Creator)](https://github.com/cdpierse/pyinfer), [Databay (Contributor)](https://github.com/Voyz/databay) and more..
+- 🤝 **OSS Projects/Contributions**:  [Transformers Interpret (Creator)](https://github.com/cdpierse/transformers-interpret), [Pyinfer (Creator)](https://github.com/cdpierse/pyinfer), [Databay (Contributor)](https://github.com/Voyz/databay) and more..
 
-- 📝 I write articles at [https://medium.com/@charlespierse](https://medium.com/@charlespierse)
+- 📝 I write about my experiences at [https://medium.com/@charlespierse](https://medium.com/@charlespierse)
 
 - 💬 Ask me about **Search Engines, Python, NLP, Machine Learning**
 
