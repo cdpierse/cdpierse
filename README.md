@@ -3,7 +3,7 @@
 
 - 👨‍💻 I work at [Keenious (The new way of researching online)](https://keenious.com/) building a ML powered search engine for students and researchers. 
 
-- 🌱 I’m currently learning **Kubernetes, Go ❤️**
+- 🌱 I’m currently learning **Apache Airflow**
 
 - 🤝 **OSS Projects/Contributions**:  [Transformers Interpret (Creator)](https://github.com/cdpierse/transformers-interpret), [Pyinfer (Creator)](https://github.com/cdpierse/pyinfer), [Databay (Contributor)](https://github.com/Voyz/databay) and more..
 
