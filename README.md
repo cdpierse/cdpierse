@@ -3,11 +3,11 @@
 
 - 👨‍💻 I work at [Keenious (The new way of researching online)](https://keenious.com/) building a ML powered search engine for students and researchers. 
 
-- 🌱 I’m currently learning **Apache Airflow**, **Graph Embeddings**
+- 🌱 I’m currently learning **Apache Airflow**, **Knowledge Graphs and Graph Embeddings**
 
 - 🤝 **OSS Projects/Contributions**:  [Transformers Interpret (Creator)](https://github.com/cdpierse/transformers-interpret), [Pyinfer (Creator)](https://github.com/cdpierse/pyinfer), [Databay (Contributor)](https://github.com/Voyz/databay) and more..
 
-- 📝 I write about my experiences at [https://medium.com/@charlespierse](https://medium.com/@charlespierse)
+- 📝 I write at [https://medium.com/@charlespierse](https://medium.com/@charlespierse)
 
 - 💬 Ask me about **Search Engines, Python, NLP, Machine Learning**
 
