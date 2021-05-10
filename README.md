@@ -9,7 +9,7 @@
 
 - 📝 I write at [https://medium.com/@charlespierse](https://medium.com/@charlespierse)
 
-- 💬 Ask me about **Search Engines, Python, NLP, Machine Learning**
+- 💬 Ask me about **Search Engines, Semantic Search, Python, NLP, Machine Learning**
 
 - 📫 Reach me at **charlespierse@gmail.com**
 
