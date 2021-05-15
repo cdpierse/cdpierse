@@ -12,7 +12,7 @@
 
 - 📝 Sometimes I write at [https://medium.com/@charlespierse](https://medium.com/@charlespierse)
 
-- 💬 Ask me about **Search Engines, Semantic Search, Python, NLP, Machine Learning**
+- 💬 Ask me about **Search Engines, Semantic Search, NLP, Explainable AI, Machine Learning**
 
 
 ### Blog posts
