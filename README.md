@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 
-- 👨‍💻 I work at [Keenious (The new way of researching online)](https://keenious.com/) building a ML powered search engine for students and researchers. 
+- 👨‍💻 I work at [Keenious (The new way of researching online)](https://keenious.com/) building a ML powered search and recommendation engine for students and researchers. 
 
-- 🌱 I’m currently learning **Apache Airflow**, **Knowledge Graphs and Graph Embeddings**
+- 🌱 I’m currently learning **Apache Airflow**
 
 - 🤝 **OSS Projects/Contributions**:  
   * [Transformers Interpret (Creator)](https://github.com/cdpierse/transformers-interpret)
@@ -12,7 +12,14 @@
 
 - 📝 Sometimes I write at [https://medium.com/@charlespierse](https://medium.com/@charlespierse)
 
-- 💬 Ask me about **Search Engines, Semantic Search, NLP, Explainable AI, Machine Learning**
+- 💬 Ask me about
+  *  **Search Engines**
+  *   **Semantic Search** 
+  *   **NLP** 
+  *   **Explainable AI** 
+  *   **Knowledge Graphs and Graph Embeddings**
+  *   **Machine Learning**
+
 
 
 ### Blog posts
