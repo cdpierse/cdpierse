@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Apache Airflow**
 
 - 🤝 **OSS Projects/Contributions**:  
-  * [Transformers Interpret (Creator)](https://github.com/cdpierse/transformers-interpret)
+  * [Transformers Interpret (Creator)](https://github.com/cdpierse/transformers-interpret) try out the live demo [here](https://share.streamlit.io/cdpierse/transformers-interpret-streamlit/main/app.py)
   * [Pyinfer (Creator)](https://github.com/cdpierse/pyinfer)
   * [Databay (Contributor)](https://github.com/Voyz/databay) 
   * and more..
