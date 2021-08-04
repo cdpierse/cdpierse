@@ -14,7 +14,7 @@
 
 - 💬 Ask me about
   *  **Search Engines**
-  *   **Semantic Search** 
+  *   **Semantic/Vector Search** 
   *   **NLP** 
   *   **Explainable AI** 
   *   **Knowledge Graphs and Graph Embeddings**
