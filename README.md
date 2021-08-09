@@ -2,7 +2,7 @@
 
 - 👨‍💻 I work at [Keenious (The new way of researching online)](https://keenious.com/) building a ML powered search and recommendation engine for students and researchers. 
 
-- 🌱 I’m currently learning **Apache Airflow**
+- 📚 I’m currently reading **A Philosophy of Software Design by John Ousterhout**
 
 - 🤝 **OSS Projects/Contributions**:  
   * [Transformers Interpret (Creator)](https://github.com/cdpierse/transformers-interpret) try out the live demo [here](https://share.streamlit.io/cdpierse/transformers-interpret-streamlit/main/app.py)
