@@ -24,11 +24,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Knowledge Graph Search of 60 Million Vectors with Weaviate](https://medium.com/keenious/knowledge-graph-search-of-60-million-vectors-with-weaviate-7964657ec911?source=rss-1efa9a37c582------2)
 - [Introducing Transformers Interpret — Explainable AI for Transformers](https://towardsdatascience.com/introducing-transformers-interpret-explainable-ai-for-transformers-890a403a9470?source=rss-1efa9a37c582------2)
 - [How To Benchmark Any Models’ Inference Statistics For Production](https://towardsdatascience.com/how-to-benchmark-any-models-inference-statistics-for-production-906f6816d01b?source=rss-1efa9a37c582------2)
 - [Build A Keyword Extraction API with Spacy, Flask, and FuzzyWuzzy](https://towardsdatascience.com/build-a-keyword-extraction-api-with-spacy-flask-and-fuzzywuzzy-4909d7ffc105?source=rss-1efa9a37c582------2)
 - [Film Script Generation With GPT-2](https://towardsdatascience.com/film-script-generation-with-gpt-2-58601b00d371?source=rss-1efa9a37c582------2)
-- [Predicting UFC Fights With Machine Learning](https://towardsdatascience.com/predicting-ufc-fights-with-machine-learning-5d66b58e2e3a?source=rss-1efa9a37c582------2)
 <!-- BLOG-POST-LIST:END -->
 
 
