@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 
-- 👨‍💻 I work at [Keenious (The new way of researching online)](https://keenious.com/) building a ML powered search and recommendation engine for students and researchers. 
+- 👨‍💻 I work at [Keenious](https://keenious.com/) building a ML powered search and discovery engine for students and researchers. 
 
 - 📚 I’m currently reading **A Philosophy of Software Design by John Ousterhout**
 
