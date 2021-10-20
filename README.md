@@ -17,7 +17,7 @@
   *   **Semantic/Vector Search** 
   *   **NLP** 
   *   **Explainable AI** 
-  *   **Knowledge Graphs and Graph Embeddings**
+  *   **Knowledge Graphs,Graph Embeddings, Graph Databases**
   *   **Machine Learning**
 
 
