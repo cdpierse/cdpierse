@@ -8,6 +8,7 @@
   * [Transformers Interpret (Creator)](https://github.com/cdpierse/transformers-interpret) try out the live demo [here](https://share.streamlit.io/cdpierse/transformers-interpret-streamlit/main/app.py)
   * [Pyinfer (Creator)](https://github.com/cdpierse/pyinfer)
   * [Databay (Contributor)](https://github.com/Voyz/databay) 
+  * [Weaviate (Contributor)](https://github.com/semi-technologies/weaviate)
   * and more..
 
 - 📝 Sometimes I write at [https://medium.com/@charlespierse](https://medium.com/@charlespierse)
