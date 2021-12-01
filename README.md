@@ -14,11 +14,10 @@
 - 📝 Sometimes I write at [https://medium.com/@charlespierse](https://medium.com/@charlespierse)
 
 - 💬 Ask me about
-  *  **Search Engines**
-  *   **Semantic/Vector Search** 
+  *   **Search Engines and Semantic Search**
   *   **NLP** 
-  *   **Explainable AI** 
   *   **Knowledge Graphs, Graph Embeddings, and Graph Databases**
+  *   **Explainable AI** 
   *   **Machine Learning**
 
 
