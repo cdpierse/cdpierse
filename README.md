@@ -15,6 +15,7 @@
 
 - 💬 Ask me about
   *   **Search Engines and Semantic Search**
+  *   **Recommender Systems**
   *   **NLP** 
   *   **Knowledge Graphs, Graph Embeddings, and Graph Databases**
   *   **Explainable AI** 
