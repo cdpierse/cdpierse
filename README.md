@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 
-- 🔨 🎥 [Cinegraph.io (beta)](https://cinegraph.io) - I'm the creator of Cinegraph, a free film recommendation site built using knowledge graph representations of films in combination with semantic text search. Cinegraph is great for finding hidden gem films of all kinds, in all languages, from any era. Search however you like using actors, directors, or films you like. You can even give just a general description of plot and Cinegraph will find you recommendations. Cinegraph also has a useful filtering system for filtering by genres, years, length, and languages. 
+- 🔨 🎥 [Cinegraph.io (beta)](https://cinegraph.io) - I'm the creator of Cinegraph, a free film recommendation site built using knowledge graph representations of films in combination with semantic text search. Cinegraph is great for finding hidden gem films of all kinds, in all languages, from any era. Search however you like using actors, directors, or films you like. 
+
 - 📚 I’m currently reading **A Philosophy of Software Design by John Ousterhout**
 
 - 🤝 **OSS Projects/Contributions**:  
