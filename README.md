@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 
-- 🔨 🎥 [Cinegraph.io (beta)](https://cinegraph.io) - I'm the creator of Cinegraph, a free film recommendation site built using knowledge graph representations of films in combination with semantic text search. Cinegraph is great for finding hidden gem films of all kinds, in all languages, from any era. Search however you like using actors, directors, or films you like. 
+- 🔨 I work at [Tactic](tactic.fyi) as a Senior Machine Learning Engineer.
 
 - 📚 I’m currently reading **A Philosophy of Software Design by John Ousterhout**
 
-- 🤝 **OSS Projects/Contributions**:  
+- 🤝 **Projects/OSS Contributions**:  
+  * [Cinegraph.io (beta)](https://cinegraph.io) 🎥
   * [Transformers Interpret (Creator)](https://github.com/cdpierse/transformers-interpret) try out the live demo [here](https://share.streamlit.io/cdpierse/transformers-interpret-streamlit/main/app.py)
   * [Pyinfer (Creator)](https://github.com/cdpierse/pyinfer)
   * [Databay (Contributor)](https://github.com/Voyz/databay) 
