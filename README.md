@@ -5,7 +5,6 @@
 - 📚 I’m currently reading **A Philosophy of Software Design by John Ousterhout**
 
 - 🤝 **Projects/OSS Contributions**:  
-  * [Cinegraph.io (beta)](https://cinegraph.io) 🎥
   * [Transformers Interpret (Creator)](https://github.com/cdpierse/transformers-interpret) try out the live demo [here](https://share.streamlit.io/cdpierse/transformers-interpret-streamlit/main/app.py)
   * [Pyinfer (Creator)](https://github.com/cdpierse/pyinfer)
   * [Databay (Contributor)](https://github.com/Voyz/databay) 
