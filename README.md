@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 
-- 🔨 I work at [Tactic](tactic.fyi) as a Senior Machine Learning Engineer.
+- 🔨 I work at [Tactic](https://tactic.fyi/) as a Senior Machine Learning Engineer.
 
 - 📚 I’m currently reading **A Philosophy of Software Design by John Ousterhout**
 
