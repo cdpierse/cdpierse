@@ -5,7 +5,7 @@
 - 📚 I’m currently reading **A Philosophy of Software Design by John Ousterhout**
 
 - 🤝 **Projects/OSS Contributions**:  
-  * [Transformers Interpret (Creator)](https://github.com/cdpierse/transformers-interpret) try out the live demo [here](https://share.streamlit.io/cdpierse/transformers-interpret-streamlit/main/app.py)
+  * [Transformers Interpret (Creator)](https://github.com/cdpierse/transformers-interpret) 
   * [Pyinfer (Creator)](https://github.com/cdpierse/pyinfer)
   * [Databay (Contributor)](https://github.com/Voyz/databay) 
   * [Weaviate (Contributor)](https://github.com/semi-technologies/weaviate)
@@ -14,7 +14,7 @@
 - 📝 Sometimes I write at [https://medium.com/@charlespierse](https://medium.com/@charlespierse)
 
 - 💬 Ask me about
-  *   **Search Engines and Semantic Search**
+  *   **Search**
   *   **Recommender Systems**
   *   **NLP** 
   *   **Knowledge Graphs, Graph Embeddings, and Graph Databases**
@@ -23,7 +23,7 @@
 
 
 
-### Blog posts
+### Writing
 <!-- BLOG-POST-LIST:START -->
 - [Knowledge Graph Search of 60 Million Vectors with Weaviate](https://medium.com/keenious/knowledge-graph-search-of-60-million-vectors-with-weaviate-7964657ec911?source=rss-1efa9a37c582------2)
 - [Introducing Transformers Interpret — Explainable AI for Transformers](https://towardsdatascience.com/introducing-transformers-interpret-explainable-ai-for-transformers-890a403a9470?source=rss-1efa9a37c582------2)
