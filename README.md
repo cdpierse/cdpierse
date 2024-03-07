@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 
-- 🔨 I work at [Tactic](https://tactic.fyi/) as a Senior Machine Learning Engineer.
+- 🔨 ML @ [Weaviate](https://weaviate.io) 
 
-- 📚 I’m currently reading **A Philosophy of Software Design by John Ousterhout**
-
-- 🤝 **Projects/OSS Contributions**:  
-  * [Transformers Interpret (Creator)](https://github.com/cdpierse/transformers-interpret) 
-  * [Pyinfer (Creator)](https://github.com/cdpierse/pyinfer)
-  * [Databay (Contributor)](https://github.com/Voyz/databay) 
-  * [Weaviate (Contributor)](https://github.com/semi-technologies/weaviate)
-  * and more..
-
-- 📝 Sometimes I write at [https://medium.com/@charlespierse](https://medium.com/@charlespierse)
 
 - 💬 Ask me about
   *   **Search**
